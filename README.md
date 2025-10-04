@@ -4,7 +4,9 @@
 **ALMA** es un robot de compañía diseñado para ofrecer apoyo, cariño y seguridad a las personas mayores. Nace del deseo de unir tecnología y empatía en un mismo proyecto, combinando sensores biomédicos, movimiento expresivo y comunicación visual para crear una experiencia cercana y humana.  
 
 El proyecto fue desarrollado por un equipo participante en la **World Robot Olympiad (WRO) – categoría Future Engineers**, con el objetivo de explorar cómo la robótica puede mejorar la calidad de vida y el bienestar emocional de nuestros mayores.  
-![QUIENESSOMOS](IMAGES/fotoequipo.jpg)
+<p align="center">
+  <img src="IMAGES/fotoequipo.jpg" alt="Nosotras" width="300">
+</p>
 ---
 
 ## 💡 ¿Qué hace ALMA?
